@@ -1,6 +1,15 @@
 # Airline Frequent Flyer Analysis (Churn & Loyalty Promotion)
 
-An end-to-end data analytics project evaluating customer churn dynamics, 2018 promotional cohort quality, and loyalty points monetary leakage for a commercial airline dataset.
+From my experience working with SEO, increasing traffic is only half the battle. The most intriguing part is how those users convert as paying customers by bridging their search intent with business revenue. One of the ways to bridge is by collaborating with business stakeholders.
+
+I once worked on an initiative with marketing and business stakeholders. The idea was to provide offers for users who come from SEO. In order to initiate and communicate the initiative, I could not vaguely say ‘this project will increase our GMV’. I need to communicate through a metric that can tick all teams’ goals. 
+
+Recently I explored a campaign analysis project from a fictitious airline that just held a promotion. From this project, I am able to comprehend what success is behind marketing initiatives, just like the promotion that I did with my stakeholders. 
+
+In the fictitious project I explored how to measure a promotion’s success through metrics like Customer Lifetime Value (CLV) and dollar cost point redemption (how many dollars spent by the airline for every point redemption). When travelers redeem more points than their CLV, it means the campaign failed to attract high-value travelers hence a financial leakage happened. 
+
+What I can learn from the project is: When I have to collaborate in the future, I won't bring a vague goal, but am able to bring a sharp, chunked-goal ‘what does success look like from this initiative or what does failure look like?’. Instead of a vague ‘Increase GMV’ I would break it down into ‘how do we increase GMV? →  ‘through promotion’ → ‘what makes a promotion fail? → ‘if the analysis revealed that the campaign attracts promo-hunters’ → ‘how do we mitigate this?’ → ‘The solution is to work backwards from this problem to improve performance’
+
 
 ---
 
